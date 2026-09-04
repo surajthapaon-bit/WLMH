@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Without Losing My Humanity",
+      "hasCanvas": false,
+      "bodyTextLen": 705,
+      "bodyTextHash": "76bc66c7c8e99244d11964e7014518169831dcb280f8e8b143c9ef5afef43cf8",
+      "bodyTextPrefix": "SKIP TO CONTENTS WITHOUT LOSING MY HUMANITY THE HOUSE READ ARCHI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Without Losing My Humanity",
+      "hasCanvas": false,
+      "bodyTextLen": 705,
+      "bodyTextHash": "76bc66c7c8e99244d11964e7014518169831dcb280f8e8b143c9ef5afef43cf8",
+      "bodyTextPrefix": "SKIP TO CONTENTS WITHOUT LOSING MY HUMANITY THE HOUSE READ ARCHI",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
